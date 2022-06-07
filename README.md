@@ -1,2 +1,3 @@
 # sandandpeaks
-this website is a tour website under Parth sir 
+Sand And Peaks is tour plannig website.
+ https://kuldeepvyass.github.io/sandandpeaks/
